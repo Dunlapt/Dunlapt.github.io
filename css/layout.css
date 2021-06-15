@@ -253,11 +253,10 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #fff;
-   padding-top: 90px;
-   padding-bottom: 72px;
-   overflow: hidden;
-   background-color: rgb(120,120,120)
+	background: rgb(120,120,120);
+	padding-top: 90px;
+	padding-bottom: 72px;
+	overflow: hidden;
 }
 
 #resume a, #resume a:visited  { color: #11ABB0; }
