@@ -458,10 +458,12 @@ ul#nav li.current a { color: #F06000; }
 	-ms-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
 }
-.portfolio-item .item-wrap a {
-   display: block;
-   cursor: pointer;
-}
+	.portfolio-item .item-wrap a {
+		display: block;
+		cursor: pointer;
+		filter: hue-rotate(120deg);
+		animation: rotate 30s linear infinite;
+	}
 
 /* overlay */
 .portfolio-item .item-wrap .overlay {
@@ -538,6 +540,9 @@ ul#nav li.current a { color: #F06000; }
 	background: #fff;
 	position: relative;
 	margin: 0 auto;
+
+	filter: hue-rotate(120deg);
+	animation: rotate 30s linear infinite;
 }
 .popup-modal .description-box { padding: 12px 36px 18px 36px; }
 .popup-modal .description-box h4 {
