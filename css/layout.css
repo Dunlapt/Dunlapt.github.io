@@ -132,7 +132,8 @@ header .scrolldown a {
    font-size: 42px;
    line-height: 42px;
    color: #fff;
-   border-radius: 100%;
+   /* border-radius: 100%; */
+   border-radius: 5px 30px 30px 5px;
 
    -webkit-transition: all .3s ease-in-out;
    -moz-transition: all .3s ease-in-out;
@@ -829,7 +830,8 @@ call-to-action .button {
    background: #191919;
    padding-top: 96px;
    padding-bottom: 102px;
-   color: #636363;
+   /* color: #636363; */
+   color:  #525252;
 }
 #contact .section-head { margin-bottom: 42px; }
 
