@@ -44,6 +44,8 @@ header {
 
    filter: hue-rotate(120deg);
    animation: rotate 30s linear infinite;
+	
+	filter: brightness(50%);
 }
 
 @keyframes rotate {
