@@ -42,7 +42,7 @@ header {
    text-align: center;
    overflow: hidden;
 
-   border-radius: 5px 30px 30px 5px;
+   border-radius: 100px 30px 100px 30px;
 
    filter: hue-rotate(120deg);
    animation: rotate 30s linear infinite;
