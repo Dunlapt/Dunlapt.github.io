@@ -72,7 +72,7 @@ header {
 		padding-bottom: 30px;
 		text-align: center;
 		background-color: rgba(0,0,0, .7);
-      border-radius: 60px 5px 60px 5px;
+      border-radius: 45px 5px 45px 5px;
 	}
 
 	header .nav {
@@ -134,7 +134,7 @@ header .scrolldown a {
    line-height: 42px;
    color: #fff;
    /* border-radius: 100%; */
-   border-radius: 60px 5px 60px 5px;
+   border-radius: 45px 5px 45px 5px;
 
    -webkit-transition: all .3s ease-in-out;
    -moz-transition: all .3s ease-in-out;
